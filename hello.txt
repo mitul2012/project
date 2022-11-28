@@ -1,3 +1,0 @@
-Hello
-hi this file is edited,
-branch1 changes need to merge into master branch
